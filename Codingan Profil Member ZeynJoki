@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Member ZeynJoki</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@600&family=Roboto:ital,wght@1,100;1,500&display=swap" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@600&family=Playfair+Display:ital@1&family=Roboto:ital,wght@1,100;1,500&display=swap" rel="stylesheet">
+
+        <style>
+            .kartu-pengenal{
+            width: 850px;
+            height: 550px; 
+            position: relative;
+            border: 5px solid #000; 
+            border-radius: 15px; 
+            margin:auto;
+            margin-top: 20;
+            background-color: #04364A;
+            }
+
+            .sosmed{
+                padding-left: 80px;
+                font-size: 50px;
+                color: 1AACAC;
+            }
+
+            .isi{
+                color: #CCC8AA;
+            }
+
+            h2{
+                color: #F1EFEF ;
+                font-family: 'Playfair Display', serif;
+            }
+
+            .judul{
+                color: #191717 ;
+                border-style: solid;      
+            }
+
+            .warna-menu{
+                color: #DAFFFB;
+            }
+
+            .menu>li{
+                display: inline;
+                margin-right: 35px;
+                
+            }
+
+            .img{
+                width: 28%;
+                float: left;
+                border-radius: 15px;
+                margin-right: 20px;
+                
+                margin-top: ;
+            }
+
+            .font-pixelify{
+                font-family: 'Pixelify Sans', cursive;  ;
+            }
+            
+            .font-playfair{
+                font-family: 'Playfair Display', serif;
+            }
+
+            
+        </style>
+    </head>
+
+    <body>
+        <h1 class="font-pixelify judul"  style="text-align:center;margin-top:40; margin-bottom: 15;">Member ZeynJoki</h1>
+       <hr />
+    <div class="kartu-pengenal">
+        <img class="img" src="https://scontent.fcgk29-1.fna.fbcdn.net/v/t39.30808-6/385334913_122108055518056678_7913925965728028314_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=49d041&_nc_ohc=1GtVt5iPPe0AX9Z9fYf&_nc_ht=scontent.fcgk29-1.fna&oh=00_AfCa9RywGbCdqd506CyciuT6rpd-hJhITr07bNJvcCG-fg&oe=65234D8E" alt="Foto Penjoki">
+
+        <h2>Nama</h2>
+        <h3 class="isi" style="margin-top: -20px">Zein Bahsein</h3>
+
+        <h2>Tentang Member</h2>
+        <h4 class="isi" style="margin-top: -20px">Halo nama gw Zein, tinggal gw di depok, Role gw sebagai penjoki di Jungler </h4>
+
+        <h2>Tempat Tanggal Lahir</h2>
+        <h3 class="isi" style="margin-top: -20px">Jakarta 14 Desember 2001</h3>
+
+        <h2>Zodiak</h2>
+        <h3 class="isi" style="margin-top: -20px">Sagitarius</h3>
+        
+        <h2>Hobi</h2>
+        <ul class="isi
+        " style="margin-top: -10px">
+            <li>Basket</li>
+            <li>Badminton</li>
+            <li>Main Game</li>
+            <li>Baca Novel</li>
+        </ul>
+        <hr />
+        <h2 style="margin-top: -12; margin-left: 330;" >Social Media</h2>
+        <div class="sosmed">
+            <a  class="sosmed" href="https://www.facebook.com/sayyid.dragneel?locale=id_ID"><i class="fa-brands fa-facebook"></i></a>
+            <a class="sosmed" href="https://www.instagram.com/zeinbhsn/"><i class="fa-brands fa-square-instagram"></i></a>
+            <a class="sosmed" href="https://www.tiktok.com/@zein_1412?is_from_webapp=1&sender_device=pc"><i class="fa-brands fa-tiktok"></i></a>
+            <a class="sosmed" href="https://wa.me/6285967109413"><i class="fa-brands fa-square-whatsapp"></i></a>
+        </div>
+
+    </div>
+
+       
+    </body>
+</html>
